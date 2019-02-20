@@ -1,0 +1,25 @@
+download xampp 
+1.install
+2.open file and click on xampp control
+3.start the apache service & Mysqli
+4.go broweser link and search http://localhost/phpmyadmin/
+5. creat a new database table 
+6. give database name junk
+7. creat filed for
+
+id int size="200" and give id primary key
+name varchar size="200"
+password int="200"
+class size="200"
+Address varchar size="200"
+ contact bigint size="200"
+fee int size="200"
+picsource varchar size="250"
+and click create
+
+>>>After create save the all php file in xampp inside the folder htdocs
+>>> and click browers and search  http://localhost/inserttt.php
+after insert data
+>>> and serch bar and  http://localhost/loging.php
+giv id
+and password
